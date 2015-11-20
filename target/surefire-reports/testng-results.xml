@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="188" started-at="2015-11-18T11:13:48Z" finished-at="2015-11-18T11:13:48Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="188" started-at="2015-11-18T11:13:48Z" finished-at="2015-11-18T11:13:48Z">
+      <class name="com.andaily.springoauth.web.UnityControllerTest">
+        <test-method status="PASS" signature="redirectUri()" name="redirectUri" duration-ms="0" started-at="2015-11-18T11:13:48Z" finished-at="2015-11-18T11:13:48Z">
+        </test-method>
+      </class>
+      <class name="com.andaily.springoauth.service.impl.OauthServiceImplTest">
+        <test-method status="PASS" signature="testParseJSON()" name="testParseJSON" duration-ms="156" started-at="2015-11-18T11:13:48Z" finished-at="2015-11-18T11:13:48Z">
+        </test-method>
+      </class>
+      <class name="com.andaily.springoauth.service.impl.UserDtoResponseHandlerTest">
+        <test-method status="PASS" signature="testXML()" name="testXML" duration-ms="32" started-at="2015-11-18T11:13:48Z" finished-at="2015-11-18T11:13:48Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

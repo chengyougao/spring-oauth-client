@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-oauth-client
+Implementation-Version: 1.0
+Build-Jdk: 1.7.0_80
+Built-By: cygaod
+Created-By: Maven Integration for Eclipse
+Implementation-BuildNumber: 1.0
+

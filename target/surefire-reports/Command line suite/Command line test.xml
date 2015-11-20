@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="iss210101001168" name="com.andaily.springoauth.service.impl.OauthServiceImplTest" tests="3" failures="0" timestamp="18 Nov 2015 03:13:48 GMT" time="0.188" errors="0">
+  <testcase name="testParseJSON" time="0.156" classname="com.andaily.springoauth.service.impl.OauthServiceImplTest"/>
+  <testcase name="testXML" time="0.032" classname="com.andaily.springoauth.service.impl.UserDtoResponseHandlerTest"/>
+  <testcase name="redirectUri" time="0.0" classname="com.andaily.springoauth.web.UnityControllerTest"/>
+</testsuite>
